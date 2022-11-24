@@ -1,18 +1,10 @@
-# Module 12 Report Template
+# Module 12 Report Borrower Cre
 
 ## Overview of the Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
-
-* Explain the purpose of the analysis.
-* Explain what financial information the data was on, and what you needed to predict.
-* Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
-* Describe the stages of the machine learning process you went through as part of this analysis.
-* Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
+This analysis uses a logistic regression model to classify and identify the creditworthiness and the ability of borrowers to repay loans.  This model uses historical lending activity to predict parties that might have a higher likelihood of future default.  
 
 ## Results
-
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
